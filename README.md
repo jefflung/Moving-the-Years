@@ -9,3 +9,7 @@ Mitsubishi
 2015 Outlander
 Ford
 1998 Focus
+
+--------------------------------------------
+Lecturer's comment:
+Excellent handling of dictionaries and file IO, very well done
